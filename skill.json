@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-blood-ferritin-iron-overload-hemochromatosis-skill",
+  "version": "1.0.0",
+  "title": "Serum Ferritin & Transferrin Saturation Iron Overload Sentinel Skill",
+  "category": "Personal Agent (Bio / Fenton Reaction & Ferroptosis)",
+  "description": "Calculates Transferrin Saturation (TSAT %), serum ferritin accumulation, Fenton reaction hydroxyl radical generation propensity, and flags HFE C282Y hemochromatosis risks.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "screen_iron_overload_ferroptosis"
+  ],
+  "dependencies": []
+}
